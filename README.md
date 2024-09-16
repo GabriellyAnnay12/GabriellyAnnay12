@@ -1,9 +1,8 @@
-## Oii! Eu me chamo Gabrielly 👋
+##  Boas vindas ao meu perfil 👋
+
+Meu nome é Gabrielly Annay 🌷
 
 - 📎 : Estou aqui para compartilhar meus projetos da https://www.alura.com.br
 - 🖋️ : Sou uma estudante
-<!--
-**GabriellyAnnay12/GabriellyAnnay12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
--->
+![] (https://tenor.com/pt-BR/view/budding-pop-cute-adorable-blush-leaf-gif-15514789)
