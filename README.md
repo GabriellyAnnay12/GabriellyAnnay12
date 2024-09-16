@@ -6,4 +6,4 @@ Meu nome é Gabrielly Annay 🌷
 - ✏️  Sou uma estudante
 - 💻 Estou me desenvolvendo no meio digital
 
-![](https://tenor.com/b1310.gif)
+![](https://tenor.com/bOz1F.gif)
